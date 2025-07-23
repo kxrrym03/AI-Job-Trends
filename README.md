@@ -1,1 +1,1 @@
-# AI-Job-Trends
+# AI-Job-Trends.
